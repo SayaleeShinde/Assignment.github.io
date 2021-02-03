@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.outer{
+    width: 700px;
+    height: 800px;
+    margin: 0px auto;
+   
+    
+}
+.outer h1{
+    text-align: center;
+}
+p{
+    font-size: 16px;
+}
+.border{
+    width: 100%;
+    padding: 4px;
+    background-color: lightseagreen;
+    border : 1px rgb(17, 125, 161;
+    
+}
